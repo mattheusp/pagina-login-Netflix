@@ -19,3 +19,8 @@ body::before {
     left: 0;
     right: 0;
 }
+
+.logo img {
+    height: 45px;
+    width: 167px;
+}
