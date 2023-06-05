@@ -59,5 +59,14 @@ body::before {
     border-radius: 5px;
     padding-left: 15px;
     box-sizing: border-box;
+    outline: none;
+}
+
+.login_body input:hover {
+    background-color: #444;
+}
+
+.input_box {
+    margin-bottom: 25px;
     
 }
