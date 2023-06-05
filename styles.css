@@ -30,3 +30,11 @@ body::before {
     position: relative;
     z-index: 10;
 }
+
+.login_body {
+    padding: 60px;
+    z-index: 90;
+    position: relative;
+    max-width: 450;
+    height: 550px;
+}
