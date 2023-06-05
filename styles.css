@@ -68,5 +68,10 @@ body::before {
 
 .input_box {
     margin-bottom: 25px;
-    
+}
+
+.login_body button {
+    height: 50px;
+    width: 100%;
+    color: #fff;
 }
