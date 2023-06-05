@@ -99,3 +99,14 @@ body::before {
     width: 15px;
     height: 15px;
 }
+
+.remember {
+    display: flex;
+    align-items: center;
+}
+
+.remember span {
+    margin-right: 5px;
+    height: 25px;
+}
+
