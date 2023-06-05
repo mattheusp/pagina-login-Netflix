@@ -147,3 +147,7 @@ body::before {
     text-decoration: none;
 }
 
+.sign_up a:hover {
+    text-decoration: underline;
+    
+}
