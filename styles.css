@@ -91,4 +91,11 @@ body::before {
     display: flex;
     color: #b3b3b3;
     justify-content: space-between;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.support input {
+    width: 15px;
+    height: 15px;
 }
