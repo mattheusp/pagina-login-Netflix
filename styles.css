@@ -81,3 +81,7 @@ body::before {
     border: none;
     margin-bottom: 10px;
 }
+
+.login_body button:hover {
+    background-color: #e50914;
+}
