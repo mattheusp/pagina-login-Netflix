@@ -24,3 +24,9 @@ body::before {
     height: 45px;
     width: 167px;
 }
+
+.header {
+    padding: 20px 50px;
+    position: relative;
+    z-index: 10;
+}
