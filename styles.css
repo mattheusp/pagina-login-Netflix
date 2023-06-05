@@ -43,3 +43,14 @@ body::before {
     box-sizing: border-box;
     transform: translateX(-50%)
 }
+
+.login_body h2 {
+    font-size: 32px;
+    color: #fff;
+    margin-top: 0;
+}
+
+.login_body input {
+    height: 50px;
+    
+}
