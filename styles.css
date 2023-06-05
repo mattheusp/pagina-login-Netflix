@@ -120,5 +120,12 @@ body::before {
 }
 
 .login_facebook {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: #737373
+}
+
+.login_facebook span{
     
 }
