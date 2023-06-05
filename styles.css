@@ -132,5 +132,18 @@ body::before {
 }
 
 .login_facebook span a {
-    
+    text-decoration: none;
+    color: #737373;
 }
+
+.sign_up {
+    color: #737373;
+    font-size: 16px;
+}
+
+.sign_up a {
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+}
+
