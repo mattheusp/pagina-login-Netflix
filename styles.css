@@ -83,5 +83,12 @@ body::before {
 }
 
 .login_body button:hover {
-    background-color: #e50914;
+    background-color: #fc131e;
+    cursor: pointer;
+}
+
+.support {
+    display: flex;
+    color: #b3b3b3;
+    justify-content: space-between;
 }
