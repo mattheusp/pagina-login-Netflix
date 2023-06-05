@@ -149,5 +149,18 @@ body::before {
 
 .sign_up a:hover {
     text-decoration: underline;
+}
+
+.terms {
+    color: #737373;
+    font-size: 13px;
+}
+
+.terms a {
+    text-decoration: none;
+    color: #0071eb;
+}
+
+.terms a:hover {
     
 }
