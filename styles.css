@@ -127,5 +127,10 @@ body::before {
 }
 
 .login_facebook span{
+    margin-right: 5px;
+    font-size: 13px;
+}
+
+.login_facebook span a {
     
 }
