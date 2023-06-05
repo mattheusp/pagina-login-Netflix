@@ -52,5 +52,12 @@ body::before {
 
 .login_body input {
     height: 50px;
+    width: 100%;
+    color: white;
+    background: #333;
+    border: none;
+    border-radius: 5px;
+    padding-left: 15px;
+    box-sizing: border-box;
     
 }
